@@ -31,6 +31,4 @@ function TrafficSignal() {
   );
 };
 
-TrafficSignal.contextType = CarsContext;
-
 export default TrafficSignal;

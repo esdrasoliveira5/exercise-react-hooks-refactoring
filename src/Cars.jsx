@@ -53,6 +53,4 @@ function Cars() {
   )
 };
 
-Cars.contextType = CarsContext;
-
 export default Cars;
